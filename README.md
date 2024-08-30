@@ -1,2 +1,57 @@
-# Fondamenti-Programmazione-Web
-Il corso “Fondamenti di Programmazione Web” è progettato per offrire agli studenti una solida comprensione delle tecnologie essenziali per lo sviluppo web, come HTML, CSS e JavaScript.
+### < Fondamenti Programmazione Web 2024 >
+Il seminario è progettato per offrire agli studenti una solida comprensione delle tecnologie essenziali per lo sviluppo web, come HTML, CSS e JavaScript.<br>
+Sviluppato con gli studenti del Bachelor of Arts in Comunicazione Visiva (2° e 3° Anno) della Scuola universitaria professionale della Svizzera italiana (SUPSI), il seminario della durata di una settimana si articola in due fasi principali: familiarrizazione e messa in pratica.<br>
+Durante la prima parte la classe inizierà a familiarizzare con HTML, CSS e JavaScript vanilla attraverso lezioni mirate all'apprendimento del vocabolario e della sintassi di sviluppo.<br>
+Durante la seconda fase invece le studentesse e gli studenti avranno la possibilità di acquisire esperienza attraverso lo sviluppo di un progetto personale dove mostrare quanto acquisito.
+
+### Docente
+Matteo Subet<br>
+matteo.subet@supsi.ch
+
+### Programma
+|               | Mattino (09.05 - 12.20)                                           | Pomeriggio (13.30 - 16.30)                                      |
+| ------------- | ----------------------------------------------------------------- | --------------------------------------------------------------- |
+| Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati | - Introduzione HTML<br>- Il foglio di stile                     |
+| Martedì       | - Breve ripasso<br>- Introduzione CSS                             | - Introduzione CSS<br>- Le basi di logica                       |
+| Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                      | - Introduzione JavaScript<br>- Il progetto finale               |
+| Giovedì       | - Lavoro individuale con supporto                                 | - Lavoro individuale con supporto                               |
+| Giovedì       | - Lavoro individuale con supporto                                 | - Lavoro individuale con supporto<br>- Documentazione progetto  |
+
+### Organizzazione repository
+Come strumento di condivisione del lavoro verrà utilizzato GitHub per permettere a chi seguirà il seminario di entrare in contatto con uno strumento largamente utilizzato in ambito professionale.<br>
+La repository Fondamenti-Programmazione-Web-24 verrà suddivisa in due principali sezioni: Lezioni e Attività.<br>
+Nella sezione Lezioni, sono incluse tutte le lezioni di introduzione alla programmazione web suddivise per tematica: HTML, CSS e JavaScript. Ogni sezione avrà un testo di accomapgnamento dove verrà ricapitolato il programma specifico e inclusi link a esempi pratici.<br>
+Nella sezione Attività, è presente una cartella per partecipante al corso con una suddivisione tra Mini-attività e Progetto finale.<br>
+![Organizzazione Repository Fondamenti-Programmazione-Web-24](http://immagine)<br>
+
+### Obiettivi del seminario
+Il seminario è progettato per fornire alle studentesse e agli studenti una base solida nelle tecnologie fondamentali per lo sviluppo web, quali HTML, CSS e JavaScript.
+L'obiettivo principale è di preparare le studentesse e gli studenti a gestire in modo autonomo la costruzione e la gestione di semplici pagine web, competenze che saranno essenziali per affrontare i corsi avanzati previsti nel loro percorso accademico e professionale.
+
+### Sommario contenuti di massima
+Di seguito il sommario dei contenuti proposti per il seminario, il dettaglio per ogni punto è disponibile all'interno della sezione Lezioni -> HTML/CSS/JavaScript.
+#### HTML
+1. Anatomia
+2. Il Body
+3. La struttura
+4. I componenti
+5. Gli standard
+6. Scrittura semantica
+#### CSS
+1. Anatomia
+2. Stile inline
+3. Foglio di stile
+4. Attributi tag HTML
+5. Selettori
+6. Box Model
+7. Display and Positioning
+8. Colori
+9. Tipografia
+#### JavaScript
+1. Logica di base
+2. Interazione JavaScript DOM/HTML
+3. Interazione JavaScript DOM/Browser
+
+----
+
+Ultimo aggiornamento del programma Agosto 2024
