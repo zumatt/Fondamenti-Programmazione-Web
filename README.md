@@ -9,13 +9,17 @@ Matteo Subet<br>
 matteo.subet@supsi.ch
 
 ### Programma
+Il programma della settimana si articola in 2 diversi fasi: familiarizzare con i linguaggi HTML, CSS e Javascript e creare un progetto personale.<br>
+Durante la prima fase, le studentesse e gli studenti potranno comprendere meglio la teoria tecnica dei linguaggi proposti e metterli in pratica con micro-attività pratiche.<br>
+Durante la seconda, potranno invece integrare i tre linguaggi esplorati i giorni precedenti in un progetto individuale che possa restituire il lavoro svolto durante la settimana.<br>
+Di seguito il dettaglio delle lezioni della settimana:
 |               | Mattino (09.05 - 12.20)                                           | Pomeriggio (13.30 - 16.30)                                      |
 | ------------- | ----------------------------------------------------------------- | --------------------------------------------------------------- |
 | Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati | - Introduzione HTML<br>- Il foglio di stile                     |
 | Martedì       | - Breve ripasso<br>- Introduzione CSS                             | - Introduzione CSS<br>- Le basi di logica                       |
 | Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                      | - Introduzione JavaScript<br>- Il progetto finale               |
 | Giovedì       | - Lavoro individuale con supporto                                 | - Lavoro individuale con supporto                               |
-| Giovedì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto   | - Lavoro individuale con supporto<br>- Documentazione progetto  |
+| Giovedì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto  | - Lavoro individuale con supporto<br>- Documentazione progetto  |
 
 ### Organizzazione repository
 Come strumento di condivisione del lavoro verrà utilizzato GitHub per permettere a chi seguirà il seminario di entrare in contatto con uno strumento largamente utilizzato in ambito professionale.<br>
@@ -28,7 +32,7 @@ Nella sezione Attività, è presente una cartella per partecipante al corso con 
 Il seminario è progettato per fornire alle studentesse e agli studenti una base solida nelle tecnologie fondamentali per lo sviluppo web, quali HTML, CSS e JavaScript.
 L'obiettivo principale è di preparare le studentesse e gli studenti a gestire in modo autonomo la costruzione e la gestione di semplici pagine web, competenze che saranno essenziali per affrontare i corsi avanzati previsti nel loro percorso accademico e professionale.
 
-### Sommario contenuti di massima
+### OSommario contenuti di massima
 Di seguito il sommario dei contenuti proposti per il seminario, il dettaglio per ogni punto è disponibile all'interno della sezione Lezioni -> HTML/CSS/JavaScript.
 #### HTML
 1. Anatomia
