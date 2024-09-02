@@ -20,7 +20,7 @@ matteo.subet@supsi.ch
 ### Organizzazione repository
 Come strumento di condivisione del lavoro verrà utilizzato GitHub per permettere a chi seguirà il seminario di entrare in contatto con uno strumento largamente utilizzato in ambito professionale.<br>
 La repository Fondamenti-Programmazione-Web-24 verrà suddivisa in due principali sezioni: Lezioni e Attività.<br>
-Nella sezione Lezioni, sono incluse tutte le lezioni di introduzione alla programmazione web suddivise per tematica: HTML, CSS e JavaScript. Ogni sezione avrà un testo di accomapgnamento dove verrà ricapitolato il programma specifico e inclusi link a esempi pratici.<br>
+Nella sezione Lezioni, sono incluse tutte le lezioni di introduzione alla programmazione web suddivise per tematica: HTML, CSS e JavaScript. Ogni sezione avrà un testo di accompagnamento dove verrà illustrato il programma specifico e inclusi link a esempi pratici.<br>
 Nella sezione Attività, è presente una cartella per partecipante al corso con una suddivisione tra Mini-attività e Progetto finale.<br>
 ![Organizzazione Repository Fondamenti-Programmazione-Web-24](https://raw.githubusercontent.com/zumatt/Fondamenti-Programmazione-Web-24/main/Treemap_GithubRepo_CV.png)<br>
 
