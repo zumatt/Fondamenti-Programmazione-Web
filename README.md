@@ -15,14 +15,14 @@ matteo.subet@supsi.ch
 | Martedì       | - Breve ripasso<br>- Introduzione CSS                             | - Introduzione CSS<br>- Le basi di logica                       |
 | Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                      | - Introduzione JavaScript<br>- Il progetto finale               |
 | Giovedì       | - Lavoro individuale con supporto                                 | - Lavoro individuale con supporto                               |
-| Giovedì       | - Lavoro individuale con supporto                                 | - Lavoro individuale con supporto<br>- Documentazione progetto  |
+| Giovedì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto   | - Lavoro individuale con supporto<br>- Documentazione progetto  |
 
 ### Organizzazione repository
 Come strumento di condivisione del lavoro verrà utilizzato GitHub per permettere a chi seguirà il seminario di entrare in contatto con uno strumento largamente utilizzato in ambito professionale.<br>
 La repository Fondamenti-Programmazione-Web-24 verrà suddivisa in due principali sezioni: Lezioni e Attività.<br>
 Nella sezione Lezioni, sono incluse tutte le lezioni di introduzione alla programmazione web suddivise per tematica: HTML, CSS e JavaScript. Ogni sezione avrà un testo di accomapgnamento dove verrà ricapitolato il programma specifico e inclusi link a esempi pratici.<br>
 Nella sezione Attività, è presente una cartella per partecipante al corso con una suddivisione tra Mini-attività e Progetto finale.<br>
-![Organizzazione Repository Fondamenti-Programmazione-Web-24](http://immagine)<br>
+![Organizzazione Repository Fondamenti-Programmazione-Web-24](https://raw.githubusercontent.com/zumatt/Fondamenti-Programmazione-Web-24/main/Treemap_GithubRepo_CV.png)<br>
 
 ### Obiettivi del seminario
 Il seminario è progettato per fornire alle studentesse e agli studenti una base solida nelle tecnologie fondamentali per lo sviluppo web, quali HTML, CSS e JavaScript.
