@@ -61,6 +61,7 @@ Di seguito il sommario dei contenuti proposti per il seminario, il dettaglio per
 La repository del seminario può essere modificata e integrata in qualsiasi sua parte. Se per esempio vedete un errore e/o credete si possa integrare il testo in ogni sua parte o forma siete liberi di poter inviare la modifica.
 Per poter sottomettere una modifica o caricare i propri file, utilizzare la branch `dev`, verrà poi integrata all'interno della branch `main` ogni fine giornata o dopo ogni aggiornamento importante. Questo permetterà di mantenere la repository ordinata.<br>
 Per essere sicuri di modificare la branch `dev` controllare sull'applicazione GitHub Desktop che la branch selezionata sia quella corretta. Nel caso in cui abbiate selezionato la branch `main` per errore, cambiare branch e selezionare l'opzione `Bring my changes to dev` in modo tale da portare gli aggiornamenti sulla branch `dev` senza perdere le modifiche.
+Per contribuire controllare sempre che la cartella sia aggiornata con quanto salvato su GitHub premento sul tasto `Fetch origin`, dopodichè aggiornare il proprio o i propri file e salvare. A questo punto sull'applicazione GitHub desktop troverete la modifica al file con una preview della parte modificata, aggiunta o rimossa. Potrete quindi inviare il file inserendo almeno un titolo riepilogativo delle vostre modifiche e cliccando su Commit to dev.
 
 ----
 
