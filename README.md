@@ -26,7 +26,11 @@ Come strumento di condivisione del lavoro verrà utilizzato GitHub per permetter
 La repository Fondamenti-Programmazione-Web-24 verrà suddivisa in due principali sezioni: Lezioni e Attività.<br>
 Nella sezione Lezioni, sono incluse tutte le lezioni di introduzione alla programmazione web suddivise per tematica: HTML, CSS e JavaScript. Ogni sezione avrà un testo di accompagnamento dove verrà illustrato il programma specifico e inclusi link a esempi pratici.<br>
 Nella sezione Attività, è presente una cartella per partecipante al corso con una suddivisione tra Mini-attività e Progetto finale.<br>
-![Organizzazione Repository Fondamenti-Programmazione-Web-24](https://raw.githubusercontent.com/zumatt/Fondamenti-Programmazione-Web-24/main/Treemap_GithubRepo_CV.png)<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Treemap_GithubRepo_CV_White.png">
+  <source media="(prefers-color-scheme: light)" srcset="Treemap_GithubRepo_CV_Black.png">
+  <img alt="Organizzazione Repository Fondamenti-Programmazione-Web-24" src="Treemap_GithubRepo_CV_White.png">
+</picture>
 
 ### Obiettivi del seminario
 Il seminario è progettato per fornire alle studentesse e agli studenti una base solida nelle tecnologie fondamentali per lo sviluppo web, quali HTML, CSS e JavaScript.
