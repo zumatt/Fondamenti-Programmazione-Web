@@ -33,7 +33,7 @@ Nella sezione Attività, è presente una cartella per partecipante al corso con 
 Il seminario è progettato per fornire alle studentesse e agli studenti una base solida nelle tecnologie fondamentali per lo sviluppo web, quali HTML, CSS e JavaScript.
 L'obiettivo principale è di preparare le studentesse e gli studenti a gestire in modo autonomo la costruzione e la gestione di semplici pagine web, competenze che saranno essenziali per affrontare i corsi avanzati previsti nel loro percorso accademico e professionale.
 
-### OSommario contenuti di massima
+### Sommario contenuti di massima
 Di seguito il sommario dei contenuti proposti per il seminario, il dettaglio per ogni punto è disponibile all'interno della sezione Lezioni -> HTML/CSS/JavaScript.
 #### HTML
 1. Anatomia
@@ -56,6 +56,11 @@ Di seguito il sommario dei contenuti proposti per il seminario, il dettaglio per
 1. Logica di base
 2. Interazione JavaScript DOM/HTML
 3. Interazione JavaScript DOM/Browser
+
+### Come contribuire e utilizzare la repository
+La repository del seminario può essere modificata e integrata in qualsiasi sua parte. Se per esempio vedete un errore e/o credete si possa integrare il testo in ogni sua parte o forma siete liberi di poter inviare la modifica.
+Per poter sottomettere una modifica o caricare i propri file, utilizzare la branch `dev`, verrà poi integrata all'interno della branch `main` ogni fine giornata o dopo ogni aggiornamento importante. Questo permetterà di mantenere la repository ordinata.<br>
+Per essere sicuri di modificare la branch `dev` controllare sull'applicazione GitHub Desktop che la branch selezionata sia quella corretta. Nel caso in cui abbiate selezionato la branch `main` per errore, cambiare branch e selezionare l'opzione `Bring my changes to dev` in modo tale da portare gli aggiornamenti sulla branch `dev` senza perdere le modifiche.
 
 ----
 
