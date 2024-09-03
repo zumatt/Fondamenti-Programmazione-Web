@@ -26,11 +26,8 @@ Come strumento di condivisione del lavoro verrà utilizzato GitHub per permetter
 La repository Fondamenti-Programmazione-Web-24 verrà suddivisa in due principali sezioni: Lezioni e Attività.<br>
 Nella sezione Lezioni, sono incluse tutte le lezioni di introduzione alla programmazione web suddivise per tematica: HTML, CSS e JavaScript. Ogni sezione avrà un testo di accompagnamento dove verrà illustrato il programma specifico e inclusi link a esempi pratici.<br>
 Nella sezione Attività, è presente una cartella per partecipante al corso con una suddivisione tra Mini-attività e Progetto finale.<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+![Mappatura organizzazione repository](Treemap_GithubRepo_CV_Black.png#gh-light-mode-only)
+![Mappatura organizzazione repository](Treemap_GithubRepo_CV_White.png#gh-dark-mode-only)
 
 ### Obiettivi del seminario
 Il seminario è progettato per fornire alle studentesse e agli studenti una base solida nelle tecnologie fondamentali per lo sviluppo web, quali HTML, CSS e JavaScript.
