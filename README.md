@@ -41,7 +41,6 @@ Di seguito il sommario dei contenuti proposti per il seminario, il dettaglio per
 3. La struttura
 4. I componenti
 5. Gli standard
-6. Scrittura semantica
 #### CSS
 1. Anatomia
 2. Stile inline
