@@ -25,11 +25,6 @@ Un elemento HTML è separato da altro testo in un documento da “tag”, che co
    - Link pagine interne o esterne ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/))
    - Spazi bianchi e l'indentazione ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/))
    - Commenti ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/))
-6. Scrittura semantica
-   - Header e Nav ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/))
-   - Main e Footer ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/))
-   - Section e Article ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/))
-   - Figure e Figcaption ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/))
 
 ---
 Ultimo aggiornamento del programma Agosto 2024
