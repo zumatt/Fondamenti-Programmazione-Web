@@ -1,0 +1,29 @@
+.box {
+    width: 500px;
+    border: 2px solid black;
+    padding: 5px 10px 5px 10px;
+    margin: 10px 20px;
+}
+
+.childBox {
+    width: 400px;
+    height: 100px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+
+#firstBox .childBox p{
+    display: inline;
+    height: 10px;
+    width: 20px;
+}
+
+#secondBox .childBox p{
+    display: block;
+}
+
+#thirdBox .childBox p{
+    display: inline-block;
+    height: 10px;
+    width: 20px;
+}
