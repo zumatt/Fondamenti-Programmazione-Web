@@ -11,12 +11,20 @@
         <script src="assets/script.js" defer></script>
     </head>
     <body>
-        <h1>Fondamenti di programmazione Web 2024</h1>
-        <h2>HTML - <u>CSS</u> - JavaScript</h2>
-        <div class="box">
-            <div onclick="changeBox(this)" class="childBox notClicked">
-                <p id="labelBtn">Click me!</p>
+        <header>
+            <h1>Fondamenti di programmazione Web 2024</h1>
+            <h2>HTML - <u>CSS</u> - JavaScript</h2>
+        </header>
+        <section>
+            <div onclick="btnClick(this)" class="button">
+                <p id="labelBtn">Try to click me!</p>
             </div>
-        </div>
+            <div onclick="openWindow()" class="button">
+                <p id="labelBtn">Try to click me!</p>
+            </div>
+            <div onclick="closeWindow()" class="button">
+                <p id="labelBtn">Try to click me!</p>
+            </div>
+        </section>
     </body>
 </html>
