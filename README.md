@@ -15,9 +15,9 @@ Durante la seconda, potranno invece integrare i tre linguaggi esplorati i giorni
 Di seguito il dettaglio delle lezioni della settimana:
 |               | Mattino (09.05 - 12.20)                                           | Pomeriggio (13.30 - 16.30)                                      |
 | ------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati<br> - Introduzione HTML | - Introduzione HTML<br>- Il foglio di stile                     |
-| Martedì       | - Breve ripasso<br>- Introduzione CSS                                                     | - Introduzione CSS<br>- Le basi di logica                       |
-| Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript<br>- Il progetto finale               |
+| Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati<br> - Introduzione HTML | - Introduzione HTML<br>- Gli attributi HTML                         |
+| Martedì       | - Breve ripasso<br>- Introduzione CSS                                                     | - Introduzione CSS<br>- Le basi di logica                              |
+| Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript<br>- Il progetto finale                     |
 | Giovedì       | - Lavoro individuale con supporto                                                         | - Lavoro individuale con supporto                               |
 | Giovedì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto                          | - Lavoro individuale con supporto<br>- Documentazione progetto  |
 
