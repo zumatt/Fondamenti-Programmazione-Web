@@ -1,0 +1,37 @@
+.box, .box2 {
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    padding: 5px 10px 5px 10px;
+    margin: 10px 20px;
+}
+
+.box .childBox {
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 200px;
+    left: 0;
+}
+
+.box2 .childBox {
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 400px;
+    left: 0;
+}
+
+#first {
+    z-index: 3;
+}
+
+#second {
+    z-index: 2;
+}

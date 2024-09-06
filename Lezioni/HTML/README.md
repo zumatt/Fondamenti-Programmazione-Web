@@ -11,18 +11,18 @@ Un elemento HTML è separato da altro testo in un documento da “tag”, che co
 2. Il Body
 3. La struttura
 4. I componenti
-   - Heading ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Heading/index.html))
-   - Div ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Div/index.html))
-   - Testo ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Testo/index.html))
-   - Liste ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Liste/index.html))
-   - Immagini ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Immagini/index.html))
-   - Video ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Video/index.html))
-   - Audio ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Audio/index.html))
+   - Heading ([Esempio codice](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Heading/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Componenti/Heading/))
+   - Div ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Div/index.html))  ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Componenti/Div/))
+   - Testo ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Testo/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Componenti/Testo/))
+   - Liste ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Liste/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Componenti/Liste/))
+   - Immagini ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Immagini/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Componenti/Immagini/))
+   - Video ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Video/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Componenti/Video/))
+   - Audio ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Componenti/Audio/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Componenti/Audio/))
 5. Gli standard
-   - Tag `<html>` ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Standard/Tag%20HTML/index.html))
-   - Tag `<head>` ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Standard/Tag%20HEAD/index.html))
-   - Spazi bianchi e l'indentazione ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Standard/Spazi%20bianchi/index.html))
-   - Commenti ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Standard/Commenti/index.html))
+   - Tag `<html>` ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Standard/Tag%20HTML/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Standard/Tag%20HTML/))
+   - Tag `<head>` ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Standard/Tag%20HEAD/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Standard/Tag%20HEAD/))
+   - Spazi bianchi e l'indentazione ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Standard/Spazi%20bianchi/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Standard/Spazi%20bianchi/))
+   - Commenti ([Esempio](https://github.com/zumatt/Fondamenti-Programmazione-Web-24/blob/main/Lezioni/HTML/Standard/Commenti/index.html)) ([Esempio risultato](https://zumatt.github.io/Fondamenti-Programmazione-Web-24/Lezioni/HTML/Standard/Commenti/))
 
 ---
 Ultimo aggiornamento del programma Agosto 2024

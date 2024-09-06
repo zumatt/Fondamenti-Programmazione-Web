@@ -1,0 +1,20 @@
+.primoGruppo{
+    background-color: lightgray; /* colore di sfondo */
+    color: black; /* foreground color */
+}
+
+.descrizione{
+    color: blue; /* valore colore per nome */
+}
+
+#terzoParagrafo{
+    color: #006a55; /* valore colore per HEX */
+}
+
+.approfondita {
+    color: rgb(0, 150, 278);  /* valore colore per RGB */
+}
+
+.fineTesto{
+    color: rgba(238, 25, 25, 0.269)
+}
