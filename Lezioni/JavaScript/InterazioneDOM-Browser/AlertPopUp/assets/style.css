@@ -4,12 +4,12 @@ header{
 }
 
 section{
-    width: fit-content;
+    width: max-content;
     margin: 0 auto;
 }
 
 .button {
-    width: 200px;
+    width: 20vw;
     margin: 0 auto;
     border: 2px solid red;
     color: black;
