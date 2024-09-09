@@ -1,4 +1,4 @@
-### < Fondamenti Programmazione Web 2024 > prova commit
+### < Fondamenti Programmazione Web 2024 >
 Il seminario è progettato per offrire agli studenti una solida comprensione delle tecnologie essenziali per lo sviluppo web, come HTML, CSS e JavaScript.<br>
 Sviluppato con gli studenti del Bachelor of Arts in Comunicazione Visiva (2° e 3° Anno) della Scuola universitaria professionale della Svizzera italiana (SUPSI), il seminario della durata di una settimana si articola in due fasi principali: familiarrizazione e messa in pratica.<br>
 Durante la prima parte la classe inizierà a familiarizzare con HTML, CSS e JavaScript vanilla attraverso lezioni mirate all'apprendimento del vocabolario e della sintassi di sviluppo.<br>
