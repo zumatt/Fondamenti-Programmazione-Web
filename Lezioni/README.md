@@ -24,7 +24,7 @@ Di seguito il sommario dei contenuti proposti per il seminario, il dettaglio per
 1. Logica di base
 2. Interazione JavaScript DOM/HTML
 3. Interazione JavaScript DOM/Browser
-zfgzg
+
 ----
 
 Ultimo aggiornamento del programma Agosto 2024
