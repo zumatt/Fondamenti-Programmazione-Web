@@ -15,7 +15,7 @@ Durante la seconda, potranno invece integrare i tre linguaggi esplorati i giorni
 Di seguito il dettaglio delle lezioni della settimana:
 |               | Mattino (09.05 - 12.20)                                                                   | Pomeriggio (13.30 - 16.30)                                      | Slides          |
 | ------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------- |
-| Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati<br> - Introduzione HTML | - Introduzione HTML<br>- Gli attributi HTML                     | [Link](esempio.com)            |
+| Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati<br> - Introduzione HTML | - Introduzione HTML<br>- Gli attributi HTML                     | [Link](https://zenodo.org/records/13736597)            |
 | Martedì       | - Breve ripasso<br>- Introduzione CSS                                                     | - Introduzione CSS<br>- Le basi di logica                       | [Link](esempio.com)            |
 | Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript<br>- Il progetto finale               | [Link](esempio.com)            |
 | Giovedì       | - Lavoro individuale con supporto                                                         | - Lavoro individuale con supporto                               | -            |
