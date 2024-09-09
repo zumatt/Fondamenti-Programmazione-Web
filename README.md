@@ -4,9 +4,9 @@ Sviluppato con gli studenti del Bachelor of Arts in Comunicazione Visiva (2° e 
 Durante la prima parte la classe inizierà a familiarizzare con HTML, CSS e JavaScript vanilla attraverso lezioni mirate all'apprendimento del vocabolario e della sintassi di sviluppo.<br>
 Durante la seconda fase invece le studentesse e gli studenti avranno la possibilità di acquisire esperienza attraverso lo sviluppo di un progetto personale dove mostrare quanto acquisito.
 
-### Docente
-Matteo Subet<br>
-matteo.subet@supsi.ch
+### Studentessa
+Luna Barreto<br>
+luna.barreto@student.supsi.ch
 
 ### Programma
 Il programma della settimana si articola in 2 diversi fasi: familiarizzare con i linguaggi HTML, CSS e Javascript e creare un progetto personale.<br>
