@@ -6,8 +6,7 @@ Durante la seconda fase invece le studentesse e gli studenti avranno la possibil
 
 ### Docente
 Matteo Subet<br>
-matteo.subet@supsi.ch 
-ciao
+matteo.subet@supsi.ch
 
 ### Programma
 Il programma della settimana si articola in 2 diversi fasi: familiarizzare con i linguaggi HTML, CSS e Javascript e creare un progetto personale.<br>
