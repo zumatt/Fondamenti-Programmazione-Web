@@ -38,7 +38,7 @@ Di seguito il sommario dei contenuti proposti per il seminario, il dettaglio per
 #### HTML
 1. Anatomia
 2. Il Body
-3. La struttura
+3. La struttura 
 4. I componenti
 5. Gli standard
 #### CSS
