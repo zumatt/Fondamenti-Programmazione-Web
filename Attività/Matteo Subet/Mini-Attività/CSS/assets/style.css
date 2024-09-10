@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: red;
+}
+
+h1:hover{
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
+
+.introduzione{
+    color:blue;
+}
+
+#secondoP{
+    color: orange;
+}
+
+h2.testo{
+    color: blueviolet;
+}
+
+.introduzione .testo{
+    background-color: cadetblue;
+}
+
+.box{
+    width: 1500px;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px 5px 8px 12px;
+    overflow: hidden;
+}
+
+#figlio{
+    visibility: hidden;
+    width: 2000px;
+    height: max-content;
+    border: 1px solid red;
+    margin: 5px auto;
+    box-sizing: border-box;
+}
+
+#figlio p{
+    padding: 20px;
+    text-align: center;
+}
