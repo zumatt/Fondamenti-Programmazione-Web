@@ -46,23 +46,26 @@ h2.testo{
 }
 
 .box{
-    max-width: 1500px;
-    min-width: 800px;
+    max-width: 10%;
+    min-width: 200px;
     border: 1px solid white;
-    padding: 10x;
+    padding: 0x;
     margin: 10px 5px;
     overflow: hidden;
+    align-content: center;
 }
 
 .figlio{
     position: sticky;
     top: 5px;
     height: max-content;
+    weight: max-content;
     border: 1px solid red;
     margin: 5px auto;
+    align-content: text center;
 }
 
 #figlio p{
     padding: 10px;
-    text-align: center;
+    text-align: text center;
 }
