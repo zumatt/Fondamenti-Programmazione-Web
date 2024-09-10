@@ -5,9 +5,16 @@
 body{
     background-color: black;
     color: white;
+    font-size: 18px;
 }
 
 h1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
     color: red;
 }
 
@@ -34,23 +41,64 @@ h2.testo{
 }
 
 .box{
-    width: 1500px;
-    border: 1px solid white;
+    width: 200px;
+    height: 500px;
     padding: 10px;
-    margin: 10px 5px 8px 12px;
-    overflow: hidden;
+    border: 1px solid white;
+    margin: 10px auto 10px auto;
 }
 
-#figlio{
-    visibility: hidden;
-    width: 2000px;
+.sticky{
+    position: sticky;
+    top: 5px;
     height: max-content;
-    border: 1px solid red;
-    margin: 5px auto;
-    box-sizing: border-box;
+    background-color: red;
+    margin: 5px auto 5px auto;
 }
 
-#figlio p{
+.box p{
+    color: black;
     padding: 20px;
     text-align: center;
+}
+
+.fixed{
+    position: fixed;
+    top:5px;
+    right: 5px;
+    height: max-content;
+    background-color: orange;
+    margin: 5px auto 5px auto;
+}
+
+.absolute{
+    position: absolute;
+    top:5px;
+    right: 5px;
+    height: max-content;
+    background-color: red;
+    margin: 5px auto 5px auto;
+}
+
+.relative{
+    position: relative;
+    top: 10px;
+    left: 5px;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+
+.contenitore{
+    background-color: rgb(123, 177, 61);
+    color: #000;
+    width: 20vw;
+    border: 1px solid white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.contenitore p{
+    font-family: "Roboto", Helvetica, sans-serif;
+    line-height: 120%;
 }

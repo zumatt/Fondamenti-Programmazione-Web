@@ -24,6 +24,7 @@ function cookieName(){
     const secExpires = date.getSeconds() + 15;
     date.setSeconds(secExpires);
     const expires = date.toUTCString();
+    document.cookie = `username=${nome}; `
     document.cookie = `username=${name}; expires=${expires}`;
     document.cookie = `corso=CV; expires=${expires}`;
     alert('Ciao ' + name);
