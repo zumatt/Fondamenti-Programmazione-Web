@@ -19,7 +19,7 @@ Di seguito il dettaglio delle lezioni della settimana:
 | Martedì       | - Breve ripasso<br>- Introduzione CSS                                                     | - Introduzione CSS<br>- Le basi di logica                       | [Link](https://zenodo.org/records/13743483)            |
 | Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript<br>- Il progetto finale               | [Link](esempio.com)            |
 | Giovedì       | - Lavoro individuale con supporto                                                         | - Lavoro individuale con supporto                               | -            |
-| Giovedì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto                          | - Lavoro individuale con supporto<br>- Documentazione progetto  | -            |
+| Venerdì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto                          | - Lavoro individuale con supporto<br>- Documentazione progetto  | -            |
 
 ### Organizzazione repository
 Come strumento di condivisione del lavoro verrà utilizzato GitHub per permettere a chi seguirà il seminario di entrare in contatto con uno strumento largamente utilizzato in ambito professionale.<br>
