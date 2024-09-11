@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    margin-bottom: 1000vh;
+    font-size: 16px;
+}
+
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 3rem;
+    text-transform: capitalize;
+    text-align: center;
+    line-height: 50px;
+    color: rgb(18, 162, 121);
+}
+
+h1:hover{
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
+
+ .introduzione{
+    color: blue;
+    line-height: 45px;
+
+ }
+
+ #secondoP{
+    color: yellow;
+
+ }
+
+ p.testo{
+    color: blueviolet;
+
+ }
+
+ .testo, .introduzione{
+    font-size: 25px;
+    line-height: 30px;
+    font-family: "Protest Guerrilla", helvetica, sans-serif;
+ }
+
+ .box{
+    width: 500px;
+    height: 1500px;
+    border: 1px solid white;
+    padding: 5px 10px;
+    margin: 10px;
+ }
+
+ .figlio{
+   position: sticky;
+   top: 5px;
+    width: 50%;
+    height: max-content;
+    border: 1px solid red;
+    margin: 5px auto;
+
+ }
+
+ #figlio p{
+    text-align: center;
+ }
