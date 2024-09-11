@@ -1,3 +1,8 @@
+@font-face {
+    font-family: ;
+    src: url();
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -6,9 +11,16 @@
 body {
     background-color: black;
     color: white;
+    margin-bottom: 1000vh;
 }
 
 h1 {
+    font-family: "Kalnia Glaze", Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 7rem;
     color: red;
 }
 
@@ -31,31 +43,72 @@ p.testo {
 }
 
 h2.testo {
-    color: greenyellow;
+    color: blueviolet;
 }
 
 .introduzione .testo {
-    font-size: 50px;
+    background-color: cadetblue;
 }
 
 .box {
-    width: 1200px;
+    width: 200px;
+    height: 500px;
     border: 1px solid white;
     padding: 10px;
-    margin: 10px 5px 8px 12px;
-    overflow: hidden;
+    margin: 10px auto 10px auto;
 }
 
-#figlio {
-    visibility: hidden;
-    width: 2000px;
+.sticky {
+    position: sticky;
+    top: 5px;
     height: max-content;
-    border: 1px solid red;
-    margin: 5px auto;
-    box-sizing: border-box;
+    margin: 5px auto 5px auto;
+    background-color: red;
 }
 
-#figlio p{
+.box p{
+    color: black;
     padding: 20px;
     text-align: center;
+}
+
+.fixed {
+    z-index: 9999999;
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    height: max-content;
+    background-color: orange;
+    margin: 5px auto 5px auto;
+}
+
+.absolute{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: max-content;
+    background-color: red;
+    margin: 5px auto 5px auto;
+}
+
+.relative{
+    position: relative;
+    top: 10px;
+    left: 5px;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+
+.contenitore {
+    display: inline-block;
+    width: 20vw;
+    border: 1px solid white;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+.prova h1{
+    line-height: 100%;
 }
