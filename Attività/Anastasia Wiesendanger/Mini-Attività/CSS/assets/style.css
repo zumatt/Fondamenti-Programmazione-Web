@@ -1,0 +1,69 @@
+*{
+  margin: 0; 
+  padding: 0; 
+}
+
+body{
+    background-color: black;
+    color: white ;
+    font-size: 20px
+}
+
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight:bold;
+    font-style:italic;
+    font-size: 3rem;
+    text-transform:uppercase;
+    text-align: center;
+    color: red;
+}
+
+h1:hover{
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
+
+.introduzione{
+    color: blue ;
+    line-height: 150%;
+    font-family: "roboto", helvetica, sans-serif;
+}
+
+#secondoP{
+    color: darkorange;
+}
+
+h2.testo{
+    color:blueviolet
+}
+
+.introduzione, .testo {           
+   background-color:  rgba(0, 200, 255, 1);
+}
+
+.box{
+    width: 200px;
+    height: 500px;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px auto 10px auto;
+}
+
+#figlio{
+    position: sticky;
+    top: 5px;
+    height: max-content;
+    background-color: rgba(0, 200, 255, 0.8);
+    margin: 5px auto 5px auto;
+}
+
+#figlio p{
+    color: black;
+   padding: 20px; 
+   text-align: center;
+}
+
+
+
