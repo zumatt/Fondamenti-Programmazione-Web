@@ -65,7 +65,15 @@ h2.testo{
     align-content: text center;
 }
 
-#figlio p{
+.figlio p{
     padding: 10px;
     text-align: text center;
+}
+
+
+.p{
+    text-align: text center;
+    height: max-content;
+    weight: max-content;
+
 }
