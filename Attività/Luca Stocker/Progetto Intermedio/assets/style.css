@@ -1,0 +1,91 @@
+/* per selezionare le cose e vedere */
+/* *{
+    border: 1px dashed red;
+} */
+:root{
+    --bianco: rgb(240, 240, 240);
+    --nero: rgb(16, 16, 16);
+    --accento: rgb(189, 255, 91);
+
+}
+
+body{
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: var(--nero);
+    color: var(--bianco);
+    margin: 5px;
+}
+
+.navigatore{
+    border-bottom: 1px solid var(--bianco);
+}
+    .navigatore h2{
+        margin: 5px 0px;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 2.1em;
+    }
+    
+.corpo p{
+        line-height: 140%;
+}
+
+.links{
+    border: 1px solid var(--bianco);
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+    color: var(--bianco);
+    text-decoration: none;
+}
+
+.links:hover{
+    color: var(--nero);
+    background-color: var(--accento);
+
+}
+
+.corpo a{
+    text-decoration: none;
+}
+.scarpa{
+    background-color: var(--nero);
+    border-top: 1px solid var(--bianco);
+    width: 100%;
+    padding: 10px 0px;
+}
+
+.scarpa a{
+    display: inline;
+    text-decoration: none;
+    color: var(--bianco);
+    float: right;
+    text-decoration: underline;
+}
+
+.scarpa p{
+    display: inline;
+}
+
+@media (min-width: 800px) {
+    body{
+        margin: 10px 30px;
+    }
+    .paragrafo{
+        width: 70%;
+        font-size: 1.2em;
+    }
+   .navigatore{
+        padding: 10px 0px;
+    }
+   #data{
+    float: right;
+    margin: 0;
+    }
+    h2{
+        
+        display: inline;
+    }
+
+}
