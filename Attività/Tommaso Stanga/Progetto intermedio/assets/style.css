@@ -1,0 +1,87 @@
+:root{
+    --bianco: rgb(240, 240, 240);
+    --nero: rgb(15, 15, 15);
+    --evidenzia: rgb(0, 255, 170);
+}
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    background-color: var(--nero);
+    color:var(--bianco);
+    margin: 20px;
+}
+
+.navigatore{
+    border-bottom: 1px solid var(--bianco);
+    
+}
+
+
+    .navigatore h2{
+        margin: 5px 0;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 2.1rem;
+
+}
+
+.corpo p{
+    line-height: 145%;
+}
+
+.links{
+    text-align: center;
+    border: 1px solid var(--bianco);
+    border-radius: 30px;
+    padding: 10px;
+    color: var(--bianco);
+    
+}
+
+.links:hover{
+    color: var(--nero);
+    background-color: var(--evidenzia);
+    
+}
+.corpo a{
+    color: var(--bianco);
+    text-decoration: none;
+
+}
+
+.scarpa{
+    background-color: var(--nero);
+    padding: 10px 0;
+    border-top:  1px solid var(--bianco);
+   
+    
+}
+.scarpa a{
+    text-decoration: white;
+    
+    color: var(--bianco);
+    display: inline;
+    float: right;
+}
+
+.scarpa p{
+    text-decoration: none;
+    color: var(--bianco);
+    display: inline;
+}
+
+@media (min-width:1200px) {
+    .paragrafo{
+        width: 50%;
+
+    }
+    
+    h2{
+        display: inline;
+    }
+
+    #data{
+        float: right;
+        margin: 0;
+    }
+}
