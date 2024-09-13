@@ -1,0 +1,8 @@
+.genitore{
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 20vw ;
+    height: max-content;
+    padding: 10px;
+    text-align: center;
+}
