@@ -1,0 +1,158 @@
+/* *{
+    border: 1px dashed red;
+} */
+
+:root{
+    --bianco:white;
+    --nero:black;
+    --accento:rgb(34, 246, 211);
+    
+
+}
+
+body{
+    font-family: "Bebas Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: var(--nero);
+    color: var(--bianco);
+    margin: 5px 0;
+
+}
+
+.navigatore{
+    border-bottom: 1px solid var(--bianco);
+    display: flex;
+    align-items: end;
+}
+
+.navigatore h2{
+    margin: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 3em;
+    display: inline-block;
+}
+
+.navigatore h2:hover{
+    color:var(--accento);
+}
+
+
+.corpo p{
+    line-height: 145%;
+    width: 100%;
+    color:var(--bianco);
+}
+
+.links{
+    border: 1px solid var(--bianco);
+    border-radius: 14px;
+    text-align: center;
+    color: var(--bianco);
+    margin: 5px 0;
+    padding: 10px 0;
+}
+
+.links:hover{
+    background-color:var(--accento);
+    color:var(--nero);
+}
+
+
+.corpo a{
+    text-decoration: none;
+}
+
+
+
+.scarpa{
+    border-top: 1px solid var(--bianco);
+    padding: 10px 0;
+    bottom: 20px;
+    
+    
+}
+
+.scarpa a{
+    text-decoration: none;
+    color:v var(--bianco);
+    float: right;
+    display: inline;
+    text-decoration: underline;
+}
+
+.scarpa p{
+    display: inline;
+    
+}
+
+.nav-right{
+    margin: 0 0 0 auto;
+}
+
+#data{
+    float:right;
+    font-size: 1em;
+}
+
+#ora{
+    float: right;
+    font-size: 1em;
+}
+
+@media (min-width:800px) {
+    body{
+        margin:30px 30px;
+    }
+    .paragrafo{
+        width:50%;
+        font-size: 1.2em;
+    }
+    
+    .navigatore{
+        padding:10px 0;
+    }
+    
+    h2{
+        display: inline;
+    }
+    
+    #data{
+        float: right;
+    }
+}
+
+.immagini{
+    display:flex;
+    width: 100%;
+    flex-direction: row;
+    gap: 20px;
+    overflow: hidden;
+}
+
+.immagini section{
+    width: 100%;
+}
+
+img{
+    width: 100%;
+    height: 10vh;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+img:hover{
+    height: 30vh;
+}
+
+
+
+#img-logo{
+    height: 10vh;
+    width: 10vh;
+}
+
+
+/* #img-right{
+    float: right;
+} */
