@@ -1,0 +1,223 @@
+*{
+    margin:0;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: "Protest Guerrilla", sans-serif;
+
+    font-size: 16px;
+    margin-bottom: 1080px;
+    /* text-align: center; */
+}
+
+h1{
+    color: orange;
+    font-size: 10rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+h1:hover{
+    background-color: orange;
+    color: black;
+    cursor: pointer;
+}
+
+h2{
+    color: white;
+    font-size: 8rem;
+    font-weight: bold;
+    /* font-style:italic; */
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+.introduzione{
+    background-color: rgba(243, 11, 65, 0.69);
+    color:#fff;
+    width: 50vw;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px auto 10px auto;
+}
+
+#secondoP{
+    color: orange;
+    font-size: 5rem;
+    text-align: center;
+}
+
+p.testo{
+    color: white;
+}
+
+.testo, .introduzione{
+    font-size: 50px;
+    
+}
+
+.box p{
+    color:black;
+    padding: 20px;
+    text-align: right;
+    
+}
+
+.box{
+    width: 200px;
+    height: 500px;
+    border: 1px solid white;
+    margin: 5px auto 5px auto;
+    padding: 10px;
+  
+}
+
+.sticky{
+    position:sticky;
+    top: 5px;
+    height: max-content;
+    background-color: red;
+    border: 1px solid red;
+    margin: 5px auto 5px auto;
+    
+}
+
+.fixed{
+    z-index: 1;
+    position:fixed;
+    top: 5px;
+    right: 5px;
+    height: max-content;
+    background-color: blue;
+    margin: 5px auto 5px auto;
+    
+}
+
+.absolute{
+    position:absolute;
+    top: 5px;
+    right:5px;
+    height: max-content;
+    background-color: red;
+    margin: 5px auto 5px auto;
+    
+}
+
+.relative{
+    position:relative;
+    top: 5px;
+    left:5px;
+    height: max-content;
+    background-color: red;
+    margin: 5px auto 5px auto;
+    
+}
+
+.contenitore{
+    align-items: center;
+    display:inline-block;
+    background-color: orange;
+    color:black;
+    width: 20vw;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.contenitore p{
+    font-family: "Protest Guerrilla", sans-serif;
+    display:inline-block;
+    line-height: 1px;
+}
+
+
+
+.button{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* display:inline-block; */
+    background-color: orange;
+    color:black;
+    width: 25vw;
+    border: 1px solid white;
+    padding: 10px;
+    /* margin: 10px auto 10px auto; */
+    box-sizing: border-box;
+    display: flex;
+    position: sticky;
+}
+
+.nav{
+    display: flex;
+    position:fixed;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    background-color: black;
+
+}
+
+.menu{
+    border: 1px solid orange;
+    width: 10vw;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+/* #ilmiocontenitore{
+    float: right;
+} */
+
+
+
+
+
+
+
+
+
+
+
+#figlio p{
+    text-align: center;
+
+}
+
+#nipote{
+    max-height: 3000px;
+    min-height: 100px;
+}
+
+/* body{
+    background-color: black;
+    padding: 40px; */
+    /* display: flex;
+}
+
+
+
+/* p{
+    color:red;
+    background-color: black;
+    padding: 30px;
+
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color:black;
+    background-color: red;
+    padding: 30px;
+
+    font-size: 50px;
+} 
