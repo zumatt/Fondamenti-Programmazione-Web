@@ -5,8 +5,8 @@ Durante la prima parte la classe inizierà a familiarizzare con HTML, CSS e Java
 Durante la seconda fase invece le studentesse e gli studenti avranno la possibilità di acquisire esperienza attraverso lo sviluppo di un progetto personale dove mostrare quanto acquisito.
 
 ### Studente
-Luca Stocker CV3 <br>
-lucastocker777@gmail.com
+Matteo Subet<br>
+matteo.subet@supsi.ch
 
 ### Programma
 Il programma della settimana si articola in 2 diversi fasi: familiarizzare con i linguaggi HTML, CSS e Javascript e creare un progetto personale.<br>
