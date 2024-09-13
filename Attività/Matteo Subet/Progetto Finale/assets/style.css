@@ -1,0 +1,39 @@
+:root{
+    --nero: rgb(15, 15, 15);
+    --bianco: rgb(240, 240, 240);
+    --accento: rgb(0, 255, 119);
+}
+
+body{
+    font-family: "Roboto", Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: var(--nero);
+    color: var(--bianco);
+    margin: 5px;
+}
+
+section h1{
+    text-align: center;
+    font-size: 2vh;
+}
+
+section h2, section p{
+    text-align: center;
+    font-size: 10vh;
+}
+
+section p{
+    font-size: 10vh;
+}
+
+section a{
+    display: block;
+    width: 30%;
+    border: 1px solid white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+    color: white;
+    text-decoration: none;
+    margin: 50px auto;
+}
