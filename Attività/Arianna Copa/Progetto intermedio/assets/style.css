@@ -1,0 +1,93 @@
+@font-face {
+    font-family: suisse;
+    src: url(assets/suisse/SuisseIntl-Bold.otf);
+}
+
+:root{
+    --bianco: rgb(240,240,240);
+    --nero: rgb(15,15,15);
+    --argento: rgb(255, 75, 147);
+    
+}
+
+body{
+    font-family: "suisse", sans-serif;
+    font-size: 16px;
+    background-color: var(--bianco);
+    color: var(--nero);
+    margin: 5px 5px;
+}
+
+.navigatore{
+    border-bottom: 2px solid var(--nero);
+}
+
+    .navigatore h2{
+        margin: 5px 0px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 2.1em;
+    }
+
+.corpo p{
+    
+    line-height: 145%;
+}
+
+.links{
+    border: 2px solid var(--nero);
+    border-radius: 30px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    color: var(--nero);
+}
+
+.corpo a{
+    text-decoration: none;
+}
+
+.scarpa{
+    background-color: var(--bianco);
+    border-top: 2px solid var(--nero);
+    margin-top: 20px;
+    width: 100%;    
+    bottom: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.scarpa a{
+    display: inline;
+    text-decoration: none;
+    color: var(--nero);
+    float: right;
+    text-decoration: underline;
+}
+
+.links:hover{
+    color: var(--nero);
+    background-color: var(--argento);
+}
+
+.scarpa p{
+    display: inline;    
+}
+
+@media (min-width: 1200px) {
+    .paragrafo{
+        width: 50%;
+        font-size: 1.2em;
+    }
+
+    h2{
+        display: inline;
+    }
+    #data{
+        float: right;
+        margin: 0;
+    }
+    .navigatore{
+        padding: 10px 0;
+    }
+}

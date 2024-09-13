@@ -16,10 +16,10 @@ Di seguito il dettaglio delle lezioni della settimana:
 |               | Mattino (09.05 - 12.20)                                                                   | Pomeriggio (13.30 - 16.30)                                      | Slides          |
 | ------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------- |
 | Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati<br> - Introduzione HTML | - Introduzione HTML<br>- Gli attributi HTML                     | [Link](esempio.com)            |
-| Martedì       | - Breve ripasso<br>- Introduzione CSS                                                     | - Introduzione CSS<br>- Le basi di logica                       | [Link](esempio.com)            |
-| Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript<br>- Il progetto finale               | [Link](esempio.com)            |
-| Giovedì       | - Lavoro individuale con supporto                                                         | - Lavoro individuale con supporto                               | -            |
-| Giovedì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto                          | - Lavoro individuale con supporto<br>- Documentazione progetto  | -            |
+| Martedì       | - Breve ripasso<br>- Introduzione CSS                                                     | - Introduzione CSS                       | [Link](esempio.com)            |
+| Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript               | [Link](esempio.com)            |
+| Giovedì       | - Approfondimento JavaScript                                                         | - Progetto collettivo                               | [Link](esempio.com)            |
+| Venerdì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto                          | - Lavoro individuale con supporto<br>- Documentazione progetto  | -            |
 
 ### Organizzazione repository
 Come strumento di condivisione del lavoro verrà utilizzato GitHub per permettere a chi seguirà il seminario di entrare in contatto con uno strumento largamente utilizzato in ambito professionale.<br>
