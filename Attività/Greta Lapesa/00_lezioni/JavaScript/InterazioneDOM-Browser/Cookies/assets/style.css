@@ -1,0 +1,30 @@
+header{
+    width: max-content;
+    margin: 0 auto;
+}
+
+section{
+    width: max-content;
+    margin: 0 auto;
+}
+
+.button {
+    width: 20vw;
+    margin: 0 auto;
+    border: 2px solid red;
+    color: black;
+    display: inline-block;
+}
+
+.button:hover {
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+p{
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px 0;
+}

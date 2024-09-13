@@ -1,0 +1,28 @@
+.box {
+    width: 500px;
+    border: 2px solid black;
+    padding: 5px 10px 5px 10px;
+    margin: 10px 20px;
+}
+
+.childBox {
+    width: 200px;
+    margin: 0 auto;
+}
+
+p{
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.notClicked{
+    border: 2px solid red;
+    color: black;
+}
+
+.clicked {
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+}

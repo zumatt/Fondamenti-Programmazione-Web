@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'IBM Plex Sans';
+    src: url(font/IBMPlexSans-Regular.woff);
+}
+
+html{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.primoGruppo {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 22px;
+}
+
+.descrizione{
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+#terzoParagrafo{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+.approfondita {
+    text-transform: uppercase;
+}
+
+.fineTesto{
+    font-size: 1.2rem;
+    line-height: 80%;
+}
+
+.fineTesto p:nth-child(2){
+    text-align: right;
+}

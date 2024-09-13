@@ -69,7 +69,10 @@ while (a <= 10){
 
 
 
-//
-const elemento = document.getElementsByClassName("descrizione")
-
-console.log(elemento);
+//siccome la classe continee + contenuti io devo dire quale voglio che venfa selezionato e cambiato
+const elemento = document.getElementById("titolo");
+//in questo modo sto salvando solo il contenuto del mio html
+console.log(elemento.innerHTML)
+//in questo modo ti mostra solo il il contenuto dell'elemento
+elemento.innerHTML ="Buon Giovedì"
+console.log(elemento.innerHTML)
