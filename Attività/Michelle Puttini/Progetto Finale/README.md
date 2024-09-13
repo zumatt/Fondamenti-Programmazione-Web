@@ -20,4 +20,4 @@ Secondo metodo: utile per differenziare un'immagine per tema nero o bianco (a di
   <img alt="Qui inserire il testo alternativo dell'immagine" src="Qui inserire il link per l'immagine per tema bianco o nero">
 </picture>
 ```
-Per la sintassi completa consulta la documentazione di GitHub a [questo link]().
+Per la sintassi completa consulta la documentazione di GitHub a [questo link](https://github.com/michelleputtini/Fondamenti-Programmazione-Web-24/tree/main/Attivit%C3%A0/Michelle%20Puttini/Progetto%20Finale/Fogli%20di%20progetto).
