@@ -16,5 +16,6 @@ function stopTimer(){
 
 function clock(){
     const date = new Date();
-    document.getElementById('clock').innerHTML = date;
+    const sec = date.getSeconds();
+    document.getElementById('clock').innerHTML = sec;
 }
