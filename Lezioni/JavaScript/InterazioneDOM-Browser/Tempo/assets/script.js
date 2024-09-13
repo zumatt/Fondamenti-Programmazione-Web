@@ -1,11 +1,14 @@
 function setTimer(){
-    const sec = prompt('Inserisci il tempo in secondi');
+    let sec = prompt('Inserisci il tempo in secondi');
     try {
+        const tipologia = typeof sec;
+        sec = sec * 1000;
+        if(tipologia == "string"){throw new TypeError("Il valore non è un numero")};
         timer = setTimeout(() => {
             alert('Tempo scaduto!');
-        }, sec * 1000);
+        }, sec);
     } catch (error) {
-        alert('Inserisci un numero valido');
+        alert('Il tuo timer non è stato impostato - ' + error);
     }
 }
 
@@ -17,4 +20,8 @@ function stopTimer(){
 function clock(){
     const date = new Date();
     document.getElementById('clock').innerHTML = date;
+}
+
+function uno(){
+    console.log("1");
 }
