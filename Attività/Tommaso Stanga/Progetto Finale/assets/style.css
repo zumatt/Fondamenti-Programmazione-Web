@@ -1,0 +1,166 @@
+/* Definizione delle variabili di colore */
+:root{
+    --bluelettro: rgb(0, 255, 4);
+    --nero: rgb(15, 15, 15);
+    --evidenzia: rgb(0, 255, 170);
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px; 
+    background-color: var(--nero);
+    color:var(--bluelettro);
+    margin: 0px;
+    padding: 0;
+}
+
+/* Stili per l'intestazione */
+.navigatore{
+    padding: 0px;
+    background-color: var(--bluelettro);
+}
+.navigatore h2{
+    margin: 5px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2.1rem;
+    color: white;
+}
+.navigatore h1{
+    padding: 0;
+    text-transform: uppercase;
+    margin: 0;
+    font-weight: bold;
+    font-size: 9rem;
+    color: black;
+}
+
+#nome {
+    text-align: left;
+    display: inline-block;
+}
+
+#cognome {
+    float: right;
+    display: inline-block;
+}
+
+/* Stili per i paragrafi */
+.corpo p{
+    line-height: 145%; /* Interlinea di p */
+}
+
+
+
+.sullastessalinea {
+    display: flex;
+    gap: 10px; 
+}
+
+
+/* Stili per i link */
+.links{
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    border: 2px solid var(--bluelettro);
+    padding: 10px;
+    color: var(--bluelettro);
+    width: 463px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 4rem;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+.links:hover{
+    color: white; /* Colore del testo al passaggio del mouse */
+    background-color: var(--bluelettro); /* Sfondo evidenziato al passaggio del mouse */
+}
+.corpo a{
+    color: var(--bluelettro);
+    text-decoration: none;
+}
+
+.testverde {
+    background-color: var(--bluelettro);
+    padding: 10px;
+}
+.scarpabianca:hover {
+    color: white;
+}
+
+/* Stili per il footer */
+.scarpa{
+    background-color: var(--nero); 
+    padding: 200px 0 0 0;
+    border-top:  0px solid var(--bluelettro); 
+}
+.scarpa a{
+    text-decoration: white;
+    color: var(--bluelettro);
+    display: inline; /* Mostra gli elementi in linea */
+    float: right; /* Allineamento a destra */
+    font-size: 7rem;
+}
+.scarpa p{
+    text-decoration: none; /* Nessuna decorazione testo */
+    color: var(--bluelettro);
+    display: inline;
+}
+.testverde {
+    color: black;
+    width: 100%;
+    font-size: 4rem;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 550;
+    padding: 0;
+} 
+
+.progetti p{
+    color: var(--bluelettro);
+    width: 100%;
+    font-size: 4rem;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 0;
+    border-bottom: 2px solid var(--bluelettro);
+} 
+
+p {
+    margin: 0;
+}
+
+.provas {
+    display: inline-block; /* Necessario per applicare trasformazioni */
+    transition: transform 0.3s ease;
+}
+
+.provas:hover{
+    color: white;
+    transform: translateX(10px);
+    
+    
+}
+
+#data {
+    transform: rotate(-90deg);
+    width: max-content;
+    margin-top: 100px;
+}
+
+
+/* Stili per schermi più larghi di 1200px */
+@media (min-width:1200px) {
+    .paragrafo{
+        width: 50%;
+        font-size: 4rem;
+        margin: 0;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+}
