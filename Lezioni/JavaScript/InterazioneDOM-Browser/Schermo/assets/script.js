@@ -26,3 +26,7 @@ function btnClick() {
     colorDepth.innerHTML = "The color depth is: " +  screen.colorDepth;
     pixelDepth.innerHTML = "The pixel depth is: " +  screen.pixelDepth;
 }
+
+// const pippo = document.getElementById("windowW")
+
+// pippo.innerHTML = "La larghezza della finestra è: " + window.innerWidth  + " pixels";

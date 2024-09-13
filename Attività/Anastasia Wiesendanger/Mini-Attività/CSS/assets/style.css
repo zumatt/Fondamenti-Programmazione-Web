@@ -16,7 +16,7 @@ h1{
     font-size: 3rem;
     text-transform:uppercase;
     text-align: center;
-    color: red;
+    color: rgb(155, 255, 232);
 }
 
 h1:hover{

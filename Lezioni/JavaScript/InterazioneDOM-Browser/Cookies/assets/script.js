@@ -1,7 +1,9 @@
 function getCookie(id){
     const element = document.getElementById(id);
     const cookie = document.cookie;
+    //console.log(cookie);
     let cookies = cookie.split(';');
+    //console.log(cookies);
 
     for (let i = 0; i < cookies.length; i++) {
         cookies[i] = cookies[i].split('=');
