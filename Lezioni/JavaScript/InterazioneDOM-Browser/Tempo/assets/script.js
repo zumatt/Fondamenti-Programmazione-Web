@@ -19,6 +19,7 @@ function stopTimer(){
 
 function clock(){
     const date = new Date();
+//quando metti "date" ti tira fuori tutte le informazioni possibili, ma se metti il punto dopo date puoi selezionare per vedere solo l'info che ti interessa, che sia ora, giorno ecc
     document.getElementById('clock').innerHTML = date;
 }
 
