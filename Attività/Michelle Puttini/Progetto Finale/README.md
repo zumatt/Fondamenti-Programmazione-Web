@@ -2,7 +2,7 @@
 #### Portfolio
 #### Michelle Puttini
 Il mio progetto è il frutto di ciò che ho imparato nel seminario di Fondamenti Programmazione Web. Grazie all'utilizzo di HTML, CSS e Javascript ho creato questa landing page fittizia che rappresenta un'esempio di portfolio web.<br>
-![Immagine progetto](https://raw.githubusercontent.com/zumatt/Fondamenti-Programmazione-Web-24/main/Attivit%C3%A0/Nome%20Cognome/Progetto%20Finale/Screensho_PaginaRepo_EsempioProgetto.png)
+![Immagine progetto](https://github.com/michelleputtini/Fondamenti-Programmazione-Web-24/blob/main/Attivit%C3%A0/Michelle%20Puttini/Progetto%20Finale/Screenshot%202024-09-13%20alle%2015.21.24.png)
 
 ---
 
