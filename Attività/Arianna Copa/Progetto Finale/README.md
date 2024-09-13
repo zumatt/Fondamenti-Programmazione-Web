@@ -1,8 +1,8 @@
 ### < Fondamenti Programmazione Web 2024 >
-#### Nome progetto
-#### Nome Cognome
-Questa cartella invece conterrà il progetto svolto nella seconda parte di settimana dove ogni studentessa o studente potranno confrontarsi con la creazione di una pagina web che comprenda tutti e tre i linguaggi (HTML, CSS e JavaScript) toccati durante il corso.<br>
-In questa pagina ogni studentessa o studente potrà documentare il proprio progetto inserendo il nome del progetto, il proprio nome e una breve descrizione. Inoltre potrà aggiungere un'immagine rappresentativa.
+#### Portfolio
+#### Arianna Copa
+In questo progetto ho tentato in modo molto basico a creare un portfolio con quello che ho imparato durante il corso. <br>
+Questa potrebbe essere la pagina principale per un portoflio che andrò a creare in futuro: oltre al testo sono presenti alcune interazioni, immagini, link.
 ![Immagine progetto](https://raw.githubusercontent.com/zumatt/Fondamenti-Programmazione-Web-24/main/Attivit%C3%A0/Nome%20Cognome/Progetto%20Finale/Screensho_PaginaRepo_EsempioProgetto.png)
 
 ---
