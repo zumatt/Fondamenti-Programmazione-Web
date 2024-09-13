@@ -19,3 +19,5 @@ function clock(){
     const sec = date.getSeconds();
     document.getElementById('clock').innerHTML = sec;
 }
+
+//quando metti "date" ti tira fuori tutte le informazioni possibili, ma se metti il punto dopo date puoi selezionare per vedere solo l'info che ti interessa, che sia ora, giorno ecc

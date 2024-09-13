@@ -12,3 +12,5 @@ function promptBtn(msg, id){
     const risposta = prompt(msg);
     label.innerHTML = "Il tuo nome è: " + risposta;
 }
+
+
