@@ -1,8 +1,7 @@
 ### < Fondamenti Programmazione Web 2024 >
-#### Nome progetto
-#### Nome Cognome
-Questa cartella invece conterrà il progetto svolto nella seconda parte di settimana dove ogni studentessa o studente potranno confrontarsi con la creazione di una pagina web che comprenda tutti e tre i linguaggi (HTML, CSS e JavaScript) toccati durante il corso.<br>
-In questa pagina ogni studentessa o studente potrà documentare il proprio progetto inserendo il nome del progetto, il proprio nome e una breve descrizione. Inoltre potrà aggiungere un'immagine rappresentativa.
+#### Fondamenti Programmazione Web 2024
+#### Greta Lapesa
+Per questo progetto ho realizzato una pagina web di un Link Tree fittizzio, in cui entrando si possono vedere il logo con il mio nome, una presentazione e una serie di collegamenti interattivi, sperimentando la sostituzione del nome con una immagine in SVG, infine nella sezione footer è presente la mia mail supsi e la data odierna aggiornata. Ho mantenuto il layout fatto in classe, cambiando piccoli dettagli.
 ![Immagine progetto](https://raw.githubusercontent.com/zumatt/Fondamenti-Programmazione-Web-24/main/Attivit%C3%A0/Nome%20Cognome/Progetto%20Finale/Screensho_PaginaRepo_EsempioProgetto.png)
 
 ---
