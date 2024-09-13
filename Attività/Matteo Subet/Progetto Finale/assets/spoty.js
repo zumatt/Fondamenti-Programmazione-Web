@@ -4,7 +4,7 @@ const elTrack = document.getElementById("track");
 
 if (code == null) {
     // Step 1: Build Authorization URL and redirect user to Spotify
-    const clientId = '05a687150a9b4c78bafb0675f27c6fea';  
+    const clientId = '---';  
     const redirectUri = 'http://127.0.0.1:5500/Attivit%C3%A0/Matteo%20Subet/Progetto%20Finale/index.html';  
     const scopes = 'user-read-playback-state user-read-currently-playing';
 
@@ -71,8 +71,8 @@ function displayTrackInfo(track) {
 
 // Main function to refresh track information every second
 (async () => {
-    const clientId = '05a687150a9b4c78bafb0675f27c6fea';
-    const clientSecret = 'e5dc2be5fa3e4244b3c8af0e05578f35';
+    const clientId = '---';
+    const clientSecret = '---';
     const redirectUri = 'http://127.0.0.1:5500/Attivit%C3%A0/Matteo%20Subet/Progetto%20Finale/index.html';
     
     const accessToken = await getAccessToken(clientId, clientSecret, code, redirectUri);
