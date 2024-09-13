@@ -8,7 +8,7 @@ function btnClick(element) {
 let newWindow;
 
 function openWindow() {
-    newWindow = window.open("https://github.com/zumatt/Fondamenti-Programmazione-Web-24",);
+    newWindow = window.open("https://github.com/zumatt/Fondamenti-Programmazione-Web-24");
 }
 
 function closeWindow() {
