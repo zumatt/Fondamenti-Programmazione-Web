@@ -1,0 +1,79 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color: black;
+    color: white;
+    margin-bottom: 1800px;
+    font-size: 16px;
+}
+
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 80%;
+    font-size: 6rem;
+    color: red;
+}
+
+h1:hover{
+    background-color:red;
+    color:black;
+    cursor: pointer;
+}
+.introduzione{
+    color:blue;
+}
+
+#secondoP{
+    color: orange;
+}
+
+h2.testo{
+    color:blueviolet;
+}
+
+.introduzione, .teso{
+    font-size: 40px;
+    background-color: cadetblue;
+}
+
+.box{
+    max-width: 10%;
+    min-width: 200px;
+    border: 1px solid white;
+    padding: 0x;
+    margin: 10px 5px;
+    overflow: hidden;
+    align-content: center;
+}
+
+.figlio{
+    position: sticky;
+    top: 5px;
+    height: max-content;
+    weight: max-content;
+    border: 1px solid red;
+    margin: 5px auto;
+    align-content: text center;
+}
+
+.figlio p{
+    padding: 10px;
+    text-align: text center;
+}
+
+
+.p{
+    text-align: text center;
+    height: max-content;
+    weight: max-content;
+
+}
