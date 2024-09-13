@@ -1,0 +1,108 @@
+/*{
+    border: 1px dashed rgb(56, 56, 56);
+}
+*/
+body{
+    font-family: "Space Grotesk", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(49, 49, 49);
+    color: rgb(240, 240, 240);
+    margin: 45px;
+}
+
+
+
+#titolo{
+    font-size: 32px;
+    text-align: left;
+
+}
+
+.navigatore{
+    border-bottom: 1px solid white;
+    display: flex;
+    align-items: left;
+    justify-content: space-between; 
+}
+
+.navigatore h2{
+    color: rgb(240, 240, 240);
+    margin: 3px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2.1rem;
+}
+
+.corpo p{
+    line-height: 130%;
+    text-decoration: none;
+    color: rgb(240, 240, 240);
+}
+
+
+.panino{
+    padding: 7px 0;
+}
+
+
+.links{
+    text-align: center;
+    width: 50%;
+    border-radius: 5px;
+    border: 0.8px solid rgb(240, 240, 240);
+    padding: 8px;
+    text-decoration: none;
+    color: rgb(240, 240, 240);
+    
+}
+
+.links a{
+    text-decoration: none;
+}
+
+.links:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 240, 240);
+    text-decoration: none;
+}
+
+
+.corpo a{
+    text-decoration: none;
+    color: rgb(240, 240, 240);
+
+}
+
+.mail a{
+    text-decoration: none;
+    color: rgb(240, 240, 240);
+    float: right;
+    display: inline;
+    padding: 7px 0;
+    
+}
+
+.mail{
+    border-bottom: 1px solid white;
+
+}
+
+@media (min-width: 800px) {
+        .paragrafo{
+            width: 50%;
+        }
+
+        .navigatore{
+            padding: 10px 0;
+        }
+
+        h2{
+            display: inline;
+        }
+
+        #data{
+            float: left;
+            margin: 0;
+            padding: 7px 0;
+        }
+    }

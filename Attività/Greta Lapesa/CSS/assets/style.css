@@ -1,0 +1,108 @@
+/* selettore asterisco potentossimo, viene definito selettore universale permette di selezionare tutto */
+*{
+    margin: 0;
+}
+
+body{
+    background-color:rgb(183, 169, 169);
+    color:rgb(29, 29, 29);
+    margin-bottom: 1000vh;
+}
+
+/* selettore per tag. text-transform: aggiunge caratteristiche ;*/
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 3rem;  
+    text-transform: uppercase;
+    text-align: center;
+    color: red;
+}
+
+/* i ":" dopo il selettore indicano una pseudoclasse, che seleziona elementi in base a uno stato (hover) */
+h1:hover{
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
+
+h2:hover{
+    background-color: blanchedalmond;
+    cursor: pointer;
+    color: black;
+}
+
+h2{
+    font-size: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+/* .punto seleziona la classe selettore per classe, il tag !important agg. priorità al selettore */
+.introduzione{
+    color: blue;
+}
+
+
+/* #hashtag seleziona l'id */
+#secondoP{
+    color: orange;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* agg il tag + "." + classe, si crea un selettore di concatenamento. Ho anche cambiato l'interlinea */
+p.testo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    line-height: 40px;
+    color: blueviolet;
+}
+
+/* agg il "." e si inseriscono due classi, divise da una virgola si crea un selettore combanizaione */
+.testo, .introduzione{
+    font-size: 14px;
+}
+
+/* agg il "." e si inseriscono due classi, senza la virgola di mezzo si crea un selettore  */
+.introduzione .testo{
+    background-color: aqua;
+}
+
+/* per fare un quadrato in proporzione rispetto alla finestra, utilizzare il parametro viewport w=vw h=vh  */
+.box{
+    width: 100px; 
+    height: 500px;  
+    border: 1px solid white;
+    /*sopra, destra, sotto, sinistra  */
+    padding: 10px;
+    margin: 10px auto 10px auto ;
+}
+
+/* Display posizionamento: sono modalità in cui possono essere posizionati elementi:
+   1. Sticky:
+   2. Fixed:
+   3. Absolute:
+   4. Relative:
+*/
+
+ /* scrivendo z-index (n) è possibile far salire di livello (tipo in primo piano) un elemento che è stato posto 
+ sopra ad un altro nella scrittura del codice */
+
+.sticky{
+    position: sticky;
+    top: 5px;
+    height: max-content;
+    background-color: rgb(255, 0, 0);
+    margin: 5px auto;
+}
+
+.box p{
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+/* come integrare un font-family, scaricare da google e get embed code, per integrare il font si va nell'html 
+e nella <head> si incolla il code che ci ha fornito google, dunque riprendere il css e nel css nel selettore
+font-family inserire il nome del font: "roboto" (ESEMPIO)  */
