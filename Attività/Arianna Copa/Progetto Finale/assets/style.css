@@ -23,82 +23,76 @@ h2{
     display: inline;
 }
 
-#buongiorno{
-    float: left;
-    margin: 20px;
-}
+    #buongiorno{
+        float: left;
+        margin: 20px;
+    }
 
-#data{
-    float: right;
-    margin: 20px;
-}
-
-
-#bodyline{
-    width: 97.3%;
-    margin: 10px 20px;
-    float: center;
-}
-
-#silhouette1{
-    height: 39.4vh;
-    margin: 10px 20px;
-    float: left;
-}
+    #data{
+        float: right;
+        margin: 20px;
+    }
 
 
-#silhouette2{
-    height: 39.4vh;
-    margin: 10px 20px;
-    float: right;
-}
-.corpo{
-    border-bottom: 2px solid var(--nero);
-    text-decoration: none;
+        #bodyline{
+            width: 97.3%;
+            margin: 10px 20px;
+        }
 
-}
+        #silhouette1{
+            height: 39.4vh;
+            margin: 10px 20px;
+            float: left;
+        }
 
-.links{
-    font-size: 60px;
-    border-bottom: 4px solid var(--nero);
-    border-radius: 30px;
-    text-align: center;
-    text-decoration: none;
-    padding: 5px;
-    margin: 10px;
-    color: var(--nero);
-}
 
-p{
-    text-decoration: none;
-}
+        #silhouette2{
+            height: 39.4vh;
+            margin: 10px 20px;
+            float: right;
+        }
 
-.scarpa{
-    background-color: var(--bianco);
-    border-top: 4px solid var(--nero);
-    margin-top: 20px;
-    width: 100%;    
-    bottom: 0;
-    padding-bottom: 10px;
-    padding-top: 10px;
-}
+            .links{
+                font-size: 60px;
+                border-bottom: 4px solid var(--nero);
+                border-radius: 30px;
+                text-align: center;
+                text-decoration: none;
+                padding: 5px;
+                margin: 10px;
+                color: var(--nero);
+            }
 
-.scarpa a{
-    display: inline;
-    font-size: 40px;
-    text-decoration: none;
-    color: var(--nero);
-    float: right;
-    text-decoration: underline;
-}
+            .links:hover{
+                color: var(--nero);
+                background-color: var(--evidenzia);
+            }
 
-.scarpa p{
-    font-size: 40px;
-    display: inline;
-    margin: 20px;
-}
+            p{
+                text-decoration: none;
+            }
 
-.links:hover{
-    color: var(--nero);
-    background-color: var(--evidenzia);
-}
+                .scarpa{
+                    background-color: var(--bianco);
+                    border-top: 4px solid var(--nero);
+                    margin-top: 20px;
+                    width: 100%;    
+                    bottom: 0;
+                    padding-bottom: 10px;
+                    padding-top: 10px;
+                }
+
+                .scarpa a{
+                    display: inline;
+                    font-size: 40px;
+                    text-decoration: none;
+                    color: var(--nero);
+                    float: right;
+                    text-decoration: underline;
+                }
+
+                .scarpa p{
+                    font-size: 40px;
+                    display: inline;
+                    margin: 20px;
+                }
