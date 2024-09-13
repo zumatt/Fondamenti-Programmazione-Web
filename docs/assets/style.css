@@ -1,0 +1,151 @@
+@keyframes colorAnimation {
+    0% { color: black; }
+    100% { color: white; }
+}
+
+@keyframes borderAnimation {
+    0% { border-color: black; }
+    100% { border-color: white; }
+}
+
+@keyframes imgOpacity {
+    0% { opacity: 0%; }
+    100% { opacity: 100%; }
+}
+
+:root{
+    --timeAnimation: 2s;
+}
+
+body{
+    background-color: black;
+    color: white;
+    animation: colorAnimation var(--timeAnimation) linear;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+nav h1{
+    font-size: 1.4em;
+}
+
+nav h2{
+    margin-top: 0;
+}
+
+nav{
+    border-bottom: 1px solid white;
+    animation: colorAnimation var(--timeAnimation) linear, borderAnimation var(--timeAnimation) linear;
+}
+
+section{
+    border-bottom: 1px solid white;
+    animation: colorAnimation var(--timeAnimation) linear, borderAnimation var(--timeAnimation) linear;
+}
+
+section a{
+    color: white;
+    animation: colorAnimation var(--timeAnimation) linear;
+}
+
+.descrizioneCorso{
+    line-height: 120%;
+}
+
+.bottone{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 50px 0;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    animation: colorAnimation var(--timeAnimation) linear, borderAnimation var(--timeAnimation) linear;
+}
+
+section:last-of-type{
+    border-bottom: 0;
+}
+
+img{
+    width: 100%;
+    opacity: 100%;
+    animation: imgOpacity var(--timeAnimation) linear;
+}
+
+article{
+    margin-bottom: 60px;
+}
+
+footer{
+    animation: borderAnimation var(--timeAnimation) linear;
+    border-top: 1px solid white;
+    font-size: 0.8em;
+}
+
+footer a{
+    color: white;
+    animation: colorAnimation var(--timeAnimation) linear;
+}
+
+@media (min-width: 1200px){
+    body{
+        margin: 0 20px;
+    }
+
+    nav h1, nav h2{
+        margin-block-start: 0.83em;
+        display: inline-block;
+    }
+
+    nav h2{
+        float: right;
+    }
+
+    .descrizioneCorso{
+        text-align: justify;
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+    }
+
+    .descrizioneCorso span{
+        width: 100%;
+    }
+
+    article{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        align-items: top;
+    }
+
+    img{
+        width: calc(50% - 10px);
+        height: max-content;
+    }
+
+    article div h4{
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .risorse p{
+        width: calc(50% - 10px);
+    }
+
+    section a:hover{
+        background-color: blueviolet;
+        transition: background-color 0.2s, color 0.2s;
+    }
+
+    
+
+    footer p{
+        display: inline-block;
+    }
+
+    #contatto{
+        float: right;
+    }
+}
