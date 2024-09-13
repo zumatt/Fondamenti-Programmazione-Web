@@ -1,0 +1,14 @@
+.genitore{
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 10vw;
+    height: max-content;
+    padding: 10px;
+    
+}
+
+.contact__infos__mail {
+    transform: rotate(-2deg);
+    font-size: 3.2rem;
+    line-height: 90%
+    }

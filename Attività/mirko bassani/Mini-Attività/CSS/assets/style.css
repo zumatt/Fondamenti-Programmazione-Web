@@ -1,0 +1,88 @@
+@font-face {
+    font-family: Bauer Bodoni std 2;
+    src: url(font/BauerBodoni);
+}
+
+
+body{
+    background-color: rgb(19, 19, 19);
+    color:rgb(0, 255, 234);
+    font-size: 40px;
+}
+
+h1 { 
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 0.8;
+    text-transform: uppercase;
+    text-align: center;
+     color: brown;
+}
+h1:hover{
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+}
+*{
+   margin:0
+}
+
+.introduzione{
+
+    color: blue;
+}
+
+#secondoP{
+    color: blanchedalmond  !important;
+}
+
+p.testo{
+    color: forestgreen;
+}
+
+h2.testo{
+    color: hotpink;
+}
+
+.tetso, .introduzione{
+    font-size: 50px;
+}
+
+.box{
+    width: 200px ;
+    height: 3000;
+  
+    padding: 10px ;
+    border: 1px solid white;
+    margin: 10px;
+    overflow: hidden;
+}
+
+#sticky{
+    /* visibility: hidden; */
+    position: sticky;
+    top: 5px;
+    width: 300px;
+    height: max-content;
+    border: 1px solid red;
+    margin: 10px auto;
+    box-sizing: content-box;
+}
+
+.absolute{
+    position: relative;
+top: 10px;
+left:5px;
+height: max-content;
+
+}
+
+.content{
+background-color: aliceblue;
+color: blue;
+width: 20vw;
+
+}
+ 
+
