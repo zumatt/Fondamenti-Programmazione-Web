@@ -8,7 +8,7 @@ function setTimer(){
             alert('Tempo scaduto!');
         }, sec);
     } catch (error) {
-        alert('Il tuo timer non è stato impostato - ' + error);
+        alert('Il tuo timer non è stato impostato correttamente - ' + error);
     }
 }
 
