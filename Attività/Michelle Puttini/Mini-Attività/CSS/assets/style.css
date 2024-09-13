@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+    margin-bottom: 1000vh;
+    font-size: 16px;
+}
+
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-style: oblique;
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: red;
+}
+
+h1:hover {
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
+
+.introduzione{
+    color: blue;
+}
+
+#secondoP{
+    color: orange;
+}
+
+h2.testo{
+    color: blueviolet;
+}
+
+.introduzione .testo{ /*combinazioni*/
+    background-color: cadetblue;
+}
+
+.box{
+    width: 200px;
+    height: 500px;
+    padding: 10px; /*con 4 valori di pensa in senso orario*/
+    border: 1px solid white;
+    margin: 10px 5px 8px 12px;
+}
+
+.sticky{
+    position: sticky;
+    top: 5px;
+    height: max-content;
+    background-color: red;
+    margin: 5px auto 5px auto;
+}
+
+.sticky p{
+    position: sticky;
+    top: 5px;
+    height: max-content;
+    background-color: red;
+    margin: 5px auto 5px auto;
+}
+
+.fixed{
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    height: max-content;
+    background-color: orange;
+    margin: 5px auto 5px auto;
+}
+
+.absolute{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: max-content;
+    background-color: red;
+    margin: 5px auto 5px auto;
+}
+
+.relative{
+    position: relative;
+    top: 10px;
+    left: 5px;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+
+.box p{
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.fixed{
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    height: max-content;
+    background-color: orange;
+    margin: 5px auto 5px auto 5px;
+}
