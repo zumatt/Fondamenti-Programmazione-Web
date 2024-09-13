@@ -59,6 +59,7 @@ height: 50%;
 border: solid red; 
 text-align: center;
 margin: 5px auto;
+box-sizing: border-box;
 
 
     }
