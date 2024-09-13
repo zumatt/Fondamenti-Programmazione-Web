@@ -1,0 +1,7 @@
+.primoGruppo .fineTesto{
+    color: red;
+}
+
+.primoGruppo, .approfondita{
+    color: blue;
+}

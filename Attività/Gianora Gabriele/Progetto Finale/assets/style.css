@@ -1,0 +1,99 @@
+:root{
+    --bianco: rgb(0, 0, 0);
+    --nero: #8acd01;
+    --accento: rgb(0, 0, 0);
+}
+
+@font-face {
+    font-family: "Regola Pro Bold";
+    src: url("Regola\ Pro\ Bold.otf") format("opentype");
+}
+
+body{
+    font-family:"Regola Pro Bold", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: var(--nero);
+    color: var(--bianco);
+    margin: 5px;
+}
+
+.navigatore{
+    border-bottom: solid var(--bianco);
+    font-family: "Regola Pro Bold", sans-serif;
+}
+
+.navigatore h2{
+    margin: 5px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2.1rem;
+}
+
+.paragrafo{
+    text-transform: uppercase;
+}
+
+.corpo p{
+    line-height: 145%;
+}
+
+.links{
+    border: 1px solid var(--bianco);
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    color: var(--bianco);
+}
+
+.links:hover{
+    color: var(--nero);
+    background-color: var(--accento);
+}
+
+.corpo a{
+    color: var(--bianco);
+    text-decoration: none;
+}
+
+p{
+}
+
+.footer{
+    background-color: var(--nero);
+    border-top: 1px solid var(--bianco);
+    padding-bottom: 10px;
+    padding: 10px, 0;
+}
+
+.footer a{
+    display: inline;
+    text-decoration: none;
+    color: var(--bianco);
+    float: right;
+}
+
+.footer p{
+    display: inline;
+}
+
+@media (min-width: 800px) {
+   .paragrafo{
+    width: 50%;
+    font-size: 1.2em;
+   }
+
+   .navigatore{
+    padding: 10px, 0;
+   }
+
+   h2{
+    display: inline;
+   }
+
+    #data{
+        float: right;
+        margin: 0;
+    }
+
+}

@@ -1,0 +1,221 @@
+/* Definizione delle variabili di colore */
+:root {
+    --nero: rgb(16, 16, 16);
+    --grigio: rgb(185, 185, 185);
+    --evidenzia: rgb(207, 141, 0);
+}
+
+/* Stili per la lista di navigazione */
+nav {
+    display: flex; /* Utilizza Flexbox per l'allineamento */
+    align-items: center; /* Allinea verticalmente al centro */
+    justify-content: space-between; /* Spazio tra gli elementi */
+    background-color: var(--grigio);
+    border-bottom: 3px solid var(--evidenzia); /* Linea sotto la barra di navigazione */
+    padding: 10px 0; /* Spazio sopra e sotto il contenuto della navigazione */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center; /* Allinea verticalmente al centro */
+}
+
+nav ul li {
+    position: relative;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--nero);
+    font-weight: bold;
+}
+
+/* Stili per la lista dropdown (social media) */
+nav ul li ul.dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: var(--evidenzia);
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    z-index: 10;
+}
+
+nav ul li ul.dropdown li {
+    margin: 0;
+}
+
+nav ul li ul.dropdown li a {
+    display: block;
+    padding: 10px 20px;
+    color: var(--nero);
+    text-decoration: none;
+}
+
+nav ul li ul.dropdown li a:hover {
+    background-color: var(--evidenzia);
+    color: var(--grigio);
+}
+
+/* Mostra la tendina quando il mouse passa sopra il link "Contatti" */
+nav ul li:hover ul.dropdown {
+    display: block;
+}
+
+/* Sottolineatura arancione al passaggio del mouse */
+nav ul li a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px;
+    background-color: var(--evidenzia);
+    transition: width 0.3s ease-in-out;
+}
+
+nav ul li a:hover::after {
+    width: 100%;
+}
+
+/* Stili per l'orario */
+#data {
+    font-size: 1.2rem;
+    color: var(--nero);
+    font-weight: bold;
+    margin-left: auto; /* Sposta l'orario a destra */
+}
+
+/* Stili generali per il corpo */
+body {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 16px; 
+    background-color: var(--grigio);
+    color: var(--nero);
+    margin: 20px; /* Ripristina il margine predefinito */
+}
+
+/* Stili per l'intestazione */
+.navigatore {
+    padding: 0px; /* Spazio sopra e sotto l'intestazione */
+    margin: 40px 0px 0px 0px;
+}
+
+.navigatore h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2.1rem;
+}
+
+#nome {
+    color: var(--evidenzia);
+    margin: 0px;
+    padding: 0px;
+    font-size: 4.5rem;
+}
+
+/* Stili per i paragrafi */
+.corpo p {
+    line-height: 180%; /* Interlinea di p */
+    margin: 20px 0px; /* Ripristina margini ai paragrafi */
+}
+
+.paragrafo {
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Stili per i link */
+.links {
+    text-align: center;
+    border: 3px solid var(--evidenzia);
+    border-radius: 0px;
+    font-weight: bold;
+    padding: 10px;
+    color: var(--nero);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.links:hover {
+    color: var(--grigio);
+    background-color: var(--evidenzia);
+}
+
+.corpo a {
+    color: var(--nero);
+    text-decoration: none;
+}
+
+/* Stili per il footer */
+.scarpa {
+    background-color: var(--grigio);
+    padding: 10px 0;
+    border-top: 3px solid var(--evidenzia);
+    font-weight: bold;
+}
+
+/* Stili per i box delle immagini */
+.box-immagini {
+    display: flex; /* Utilizza Flexbox per l'allineamento */
+    justify-content: space-between; /* Spazio uniforme tra i box */
+    margin: 20px 0; /* Margine sopra e sotto i box */
+}
+
+.box {
+    background-color: var(--grigio);
+    border: 3px solid var(--evidenzia);
+    overflow: hidden;
+    text-align: center;
+    width: 30%; /* Dimensione dei box */
+    padding: 10px;
+}
+
+.box img {
+    width: 100%; /* Immagine si adatta al box */
+    height: auto; /* Mantiene le proporzioni dell'immagine */
+}
+
+.box p {
+    margin: 10px 0 0;
+    font-weight: bold;
+    color: var(--nero);
+}
+
+
+.scarpa a:hover {
+    color: var(--evidenzia);
+}
+
+.scarpa a {
+    text-decoration: none;
+    color: var(--nero);
+    display: inline;
+    float: right;
+}
+
+.scarpa p {
+    color: var(--nero);
+    display: inline;
+}
+
+/* Media query per schermi più larghi di 1200px */
+@media (min-width: 1200px) {
+    .paragrafo {
+        width: 50%;
+    }
+
+    h2 {
+        display: inline;
+    }
+
+    #data {
+        margin: 0; /* Reset margin per schermi più grandi */
+    }
+}

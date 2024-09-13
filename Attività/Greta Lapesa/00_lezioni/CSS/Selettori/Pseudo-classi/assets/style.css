@@ -1,0 +1,19 @@
+h2:hover{
+    color: aquamarine;
+}
+
+.primoGruppo{
+    color: orchid;
+}
+
+.descrizione{
+    color: blue;
+}
+
+.descrizione:hover{
+    color: red;
+}
+
+.fineTesto{
+    color: green;
+}
