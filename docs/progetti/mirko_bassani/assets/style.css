@@ -1,0 +1,136 @@
+/* per selezionare le cose e vedere */
+/* *{
+    border: 1px dashed red;
+} */
+:root{
+    --bianco: rgb(240, 240, 240);
+    --nero: rgb(16, 16, 16);
+    --accento: rgb(52, 153, 160);
+
+}
+
+body{
+    font-family: "IBM Plex Mono", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: var(--nero);
+    color: var(--bianco);
+    margin: 5px;
+    background-image: url("paper.gif");
+      
+}
+
+
+.navigatore{
+    border-bottom: 1px solid var(--bianco);
+}
+    .navigatore h2{
+        margin: 10px 0px;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 1.5em;
+    }
+    
+.corpo p{
+        line-height: 140%;
+}
+
+#monogram{
+    font-size: 25px;
+}
+
+.links{
+    border: 1px solid var(--bianco);
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+    color: var(--bianco);
+    text-decoration: none;
+}
+
+.links:hover{
+    color: var(--nero);
+    background-color: var(--accento);
+
+}
+
+.corpo a{
+    text-decoration: none;
+}
+.scarpa{
+    background-color: none;
+    border-top: 1px solid var(--bianco);
+    width: 100%;
+    padding: 10px 0px;
+    font-size: 0.9em;;
+    bottom: 0;
+}
+
+.scarpa a{
+    display: inline;
+    text-decoration: none;
+    color: var(--bianco);
+    float: right;
+    text-decoration: underline;
+}
+
+.scarpa p{
+    display: inline;
+}
+
+@media screen and ( min-width: 391px) and (max-width: 4000px) {
+    body{
+        font-size: 30px ;
+    }
+  }
+
+@media (min-width: 800px) {
+    body{
+        margin: 100px 30px;
+    }
+    .paragrafo{
+        width: 70%;
+        font-size: 1.2em;
+    }
+   .navigatore{
+        padding: 10px 0px;
+    }
+   #data{
+    float: right;
+    margin: 0;
+    }
+    h2{
+        
+        display: inline;
+    }
+
+    .monogram{
+        float: right;
+        
+        
+    }
+
+}
+
+
+
+div#monogram span#a {
+    display: inline;
+  }
+  
+  div#monogram:hover span#a {
+    display: none;
+  }
+  
+  div#monogram span#b {
+    display: none;
+  }
+  
+  div#monogram:hover span#b {
+    display: inline;
+  }
+
+  #monogram{
+    text-align: center;
+  }
+
+  

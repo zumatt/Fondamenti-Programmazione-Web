@@ -1,0 +1,173 @@
+:root{
+    --bianco: rgb(240, 240, 240);
+    --nero: rgb(15, 15, 15);
+    --evidenzia: rgb(0, 255, 170);
+}
+body{
+    font-family: "code-saver", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: var(--nero);
+    color:var(--bianco);
+    margin: 20px;
+}
+
+.navigatore{
+    border-bottom: 1px solid var(--bianco);
+    padding: 5px;
+}
+
+
+    .navigatore h2{
+        font-weight: bold;
+        font-size: 14px;
+        display: inline;
+
+       
+}
+
+.profilo{
+    
+    text-align: left;
+    display: block;
+    
+}
+
+img#genn{
+    border: 3px solid var(--evidenzia);
+    border-radius: 0px;
+}
+
+.paragrafo{
+    width: 50%;
+
+}
+
+#data{
+    float: right;
+    margin: 0;
+}
+
+.corpo p{
+    line-height: 145%;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: var(--nero);
+    color: white;
+    width: 100%;
+    font-size: 16px;
+    border: 1px solid var(--bianco);
+    padding: 10px;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: relative;
+    background-color: rgb(25, 24, 24);
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid var(--bianco);
+    border-right: 1px solid var(--bianco);
+    border-left: 1px solid var(--bianco);
+    box-shadow: 0px 8px 16px 0px rgba(0, 255, 166, 0.2);
+    
+
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: rgb(25, 24, 24);
+    padding: 12px 16px;
+    height: 500px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: rgb(25, 24, 24);}
+  
+  /* Show the dropdown menu on hover 
+  .dropdown:hover .dropdown-content {display: block;}*/
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {background-color: var(--evidenzia);}
+
+
+  div.scroll-container {
+   
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+    height: 50vh;   
+    object-fit: fill;
+  
+  }
+
+  .links{
+    text-align: center;
+    border: 1px solid var(--bianco);
+    border-radius: 30px;
+    padding: 10px;
+    color: var(--bianco);
+    
+}
+
+.links:hover{
+    color: var(--nero);
+    background-color: var(--evidenzia);
+    
+}
+.corpo a{
+    color: var(--bianco);
+    text-decoration: none;
+
+}
+
+.scarpa{
+    background-color: var(--nero);
+    margin: 40px 0;
+    border-top:  1px solid var(--bianco);
+    padding: 10px;
+   
+    
+}
+.scarpa a{
+    text-decoration: white;
+    
+    color: var(--bianco);
+    display: inline;
+    float: right;
+}
+
+.scarpa p{
+    text-decoration: none;
+    color: var(--bianco);
+    display: inline;
+
+}
+
+@media (min-width:1200px) {
+
+    
+
+    #data{
+        float: right;
+        margin: 0;
+    }
+}
