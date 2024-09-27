@@ -20,6 +20,7 @@ Di seguito il dettaglio delle lezioni della settimana:
 | Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript               | [Link](esempio.com)            |
 | Giovedì       | - Approfondimento JavaScript                                                         | - Progetto collettivo                               | [Link](esempio.com)            |
 | Venerdì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto                          | - Lavoro individuale con supporto<br>- Documentazione progetto  | -            |
+Il programma è stato basato su i corsi HTML e CSS di [CodeAcademy](https://www.codecademy.com/catalog/language/html-css)
 
 ### Organizzazione repository
 Come strumento di condivisione del lavoro verrà utilizzato GitHub per permettere a chi seguirà il seminario di entrare in contatto con uno strumento largamente utilizzato in ambito professionale.<br>

@@ -14,7 +14,7 @@
 }
 
 :root{
-    --timeAnimation: 2s;
+    --timeAnimation: 0.5s;
 }
 
 body{
@@ -23,6 +23,7 @@ body{
     animation: colorAnimation var(--timeAnimation) linear;
     font-family: "Raleway", Helvetica, sans-serif;
     font-size: 16px;
+    margin: 0 20px;
 }
 
 nav h1{
@@ -43,9 +44,13 @@ section{
     animation: colorAnimation var(--timeAnimation) linear, borderAnimation var(--timeAnimation) linear;
 }
 
-section a{
+a{
     color: white;
     animation: colorAnimation var(--timeAnimation) linear;
+}
+
+h2 a:hover{
+    color: blueviolet;
 }
 
 .descrizioneCorso{
@@ -122,7 +127,6 @@ footer a{
 
     img{
         width: calc(50% - 10px);
-        height: max-content;
     }
 
     article div h4{
