@@ -20,6 +20,7 @@ Di seguito il dettaglio delle lezioni della settimana:
 | Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript               | [Link](https://zenodo.org/records/13851383)            |
 | Giovedì       | - Approfondimento JavaScript                                                         | - Progetto collettivo                               | [Link](https://zenodo.org/records/13851383)            |
 | Venerdì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto                          | - Lavoro individuale con supporto<br>- Documentazione progetto  | -            |
+
 Il programma è stato basato su i corsi HTML e CSS di [CodeAcademy](https://www.codecademy.com/catalog/language/html-css)
 
 ### Organizzazione repository
