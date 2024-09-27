@@ -15,10 +15,10 @@ Durante la seconda, potranno invece integrare i tre linguaggi esplorati i giorni
 Di seguito il dettaglio delle lezioni della settimana:
 |               | Mattino (09.05 - 12.20)                                                                   | Pomeriggio (13.30 - 16.30)                                      | Slides          |
 | ------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------- |
-| Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati<br> - Introduzione HTML | - Introduzione HTML<br>- Gli attributi HTML                     | [Link](esempio.com)            |
-| Martedì       | - Breve ripasso<br>- Introduzione CSS                                                     | - Introduzione CSS                       | [Link](esempio.com)            |
-| Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript               | [Link](esempio.com)            |
-| Giovedì       | - Approfondimento JavaScript                                                         | - Progetto collettivo                               | [Link](esempio.com)            |
+| Lunedì        | - Introduzione seminario<br>- Obiettivi<br>- Strumenti utilizzati<br> - Introduzione HTML | - Introduzione HTML<br>- Gli attributi HTML                     | [Link](https://zenodo.org/records/13851383)            |
+| Martedì       | - Breve ripasso<br>- Introduzione CSS                                                     | - Introduzione CSS                       | [Link](https://zenodo.org/records/13851383)            |
+| Mercoledì     | - Breve ripasso<br>- Introduzione JavaScript                                              | - Introduzione JavaScript               | [Link](https://zenodo.org/records/13851383)            |
+| Giovedì       | - Approfondimento JavaScript                                                         | - Progetto collettivo                               | [Link](https://zenodo.org/records/13851383)            |
 | Venerdì       | - Programmazione coadiuvata<br>- Lavoro individuale con supporto                          | - Lavoro individuale con supporto<br>- Documentazione progetto  | -            |
 Il programma è stato basato su i corsi HTML e CSS di [CodeAcademy](https://www.codecademy.com/catalog/language/html-css)
 
